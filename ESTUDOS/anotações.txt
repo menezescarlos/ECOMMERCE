@@ -6,9 +6,9 @@ NORMALIZAÇÃO
 
 
 OVERFIT
-underbite
+UNDERFIT
 
-70 treino - 30 teste
+70 TREINO - 30 TESTE
 
 
 Objetivo: que que eu quero prever(parte mais importante), e sempre entrgar algo a mais: documentação detalhada
@@ -21,6 +21,6 @@ Escolha do algoritimo
 Hiper parametros
 Encontrar a Curacia = Nivel de acerto
 
-fiverr.com site para cadastro
 
+fiverr.com
 workana.com
