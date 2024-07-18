@@ -1,0 +1,26 @@
+Modelo Preditivo
+
+
+PADRONIZAÇÃO
+NORMALIZAÇÃO
+
+
+OVERFIT
+underbite
+
+70 treino - 30 teste
+
+
+Objetivo: que que eu quero prever(parte mais importante), e sempre entrgar algo a mais: documentação detalhada
+Coleta dos dados
+Analise exploratória e estatistica: Variavel alvo, correlação, mediana, balanciamento da variavel alvo
+Normalização
+Padronização
+Engenharia de atributos: Data e dividir em ano mes dia, BAixo médio e alto
+Escolha do algoritimo
+Hiper parametros
+Encontrar a Curacia = Nivel de acerto
+
+fiverr.com site para cadastro
+
+workana.com
